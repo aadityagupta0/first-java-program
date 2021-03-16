@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <body>
   <h1>Addition Program</h1>
 <form action="add">
