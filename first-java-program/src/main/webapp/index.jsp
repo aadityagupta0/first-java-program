@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
+  <head>
   <title>First JAVA Program</title>
+    </head>
 <body>
   <h1>Addition Program</h1>
 <form action="add">
